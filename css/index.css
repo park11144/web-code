@@ -1,0 +1,34 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../img/checkinchill-25-08-2016-53.png');
+    background-size: cover;
+    overflow: hidden;
+    filter:blur(5px);
+    background-color: antiquewhite;
+}
+
+.link {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+}
+
+.samphanbok {
+    top: 45%;
+}
+
+.sirinthorn {
+    top: 55%;
+}
+
+.pattaya {
+    top: 60%;
+}
+.watphuprao {
+    top: 65%;
+}
+.Saengchan {
+    top:70%;
+}
